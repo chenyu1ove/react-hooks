@@ -1,7 +1,7 @@
 {
-  "name": "@gracefront/hooks-docs",
+  "name": "react-hooks-docs",
   "version": "1.0.0",
-  "description": "Documentation site for @gracefront/hooks",
+  "description": "Documentation site for react-hooks",
   "scripts": {
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",

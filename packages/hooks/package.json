@@ -1,7 +1,7 @@
 {
-  "name": "@gracefront/hooks",
+  "name": "react-hooks",
   "version": "1.0.0",
-  "author": "justchenyu",
+  "author": "chenyu1ove",
   "description": "A modern hooks library for React",
   "keywords": [
     "react",
@@ -51,8 +51,8 @@
     "rollup-plugin-dts": "^6.2.3",
     "tslib": "^2.8.1"
   },
-  "repository": "https://github.com/GraceFront/hooks.git",
-  "homepage": "https://github.com/GraceFront/hooks.git",
+  "repository": "https://github.com/chenyu1ove/react-hooks.git",
+  "homepage": "https://github.com/chenyu1ove/react-hooks.git",
   "license": "MIT",
   "packageManager": "pnpm@10.15.0"
 }

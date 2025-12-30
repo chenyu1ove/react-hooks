@@ -1,12 +1,12 @@
 {
-  "name": "@gracefront/hooks",
+  "name": "react-hooks",
   "private": "true",
-  "author": "justchenyu",
+  "author": "chenyu1ove",
   "license": "MIT",
   "packageManager": "pnpm@10.15.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GraceFront/hooks.git"
+    "url": "git+https://github.com/chenyu1ove/react-hooks.git"
   },
   "scripts": {
     "init": "pnpm install && pnpm run build",
